@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission_by_header/claim_web_content"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.prepmate.app",
+      "sha256_cert_fingerprints": [
+        "DEIN_SHA256_FINGERPRINT_HIER_EINFÜGEN"
+      ]
+    }
+  }
+]
