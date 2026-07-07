@@ -1,13 +1,13 @@
-[
-  {
-    "relation": ["delegate_permission_by_header/claim_web_content"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "de.prepmate.app",
-      "sha256_cert_fingerprints": [
-        "B4:1B:0C:E8:91:FE:D1:FD:0F:9B:22:95:05:AE:15:3E:23:39:E1:A5:8A:69:14:CC:54:94:B6:B2:10:DC:F5:CD",
-        "04:F3:EC:5B:88:60:CA:7D:46:09:0D:99:07:CB:F6:82:E3:15:67:01:F7:91:D3:23:64:1C:20:D9:DB:44:FC:E0"
-      ]
-    }
-  }
-]
+[                                                                                                                                                                                                                                                                                  
+    {                                                                                                                                                                                                                                                                                
+      "relation": ["delegate_permission_by_header/claim_web_content"],                                                                                                                                                                                                               
+      "target": {                                                                                                                                                                                                                                                                    
+        "namespace": "android_app",                                                                                                                                                                                                                                                  
+        "package_name": "com.iksoftware.prepmate",                                                                                                                                                                                                                                   
+        "sha256_cert_fingerprints": [                                                                                                                                                                                                                                                
+          "B4:1B:0C:E8:91:FE:D1:FD:0F:9B:22:95:05:AE:15:3E:23:39:E1:A5:8A:69:14:CC:54:94:B6:B2:10:DC:F5:CD",                                                                                                                                                                         
+          "04:F3:EC:5B:88:60:CA:7D:46:09:0D:99:07:CB:F6:82:E3:15:67:01:F7:91:D3:23:64:1C:20:D9:DB:44:FC:E0"                                                                                                                                                                          
+        ]                                                                                                                                                                                                                                                                            
+      }                                                                                                                                                                                                                                                                              
+    }                                                                                                                                                                                                                                                                                
+  ]  
